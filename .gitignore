@@ -1,0 +1,9 @@
+# Eclipse
+.classpath
+.project
+.settings/
+PeriodTestDrive.java
+
+# Maven
+log/
+target/
